@@ -1,0 +1,5 @@
+c:\users\innsa\documents\visual studio 2012\Projects\CalculadorBisiesto\CalculadorBisiesto\bin\Debug\CalculadorBisiesto.dll
+c:\users\innsa\documents\visual studio 2012\Projects\CalculadorBisiesto\CalculadorBisiesto\bin\Debug\CalculadorBisiesto.pdb
+c:\users\innsa\documents\visual studio 2012\Projects\CalculadorBisiesto\CalculadorBisiesto\obj\Debug\CalculadorBisiesto.csprojResolveAssemblyReference.cache
+c:\users\innsa\documents\visual studio 2012\Projects\CalculadorBisiesto\CalculadorBisiesto\obj\Debug\CalculadorBisiesto.dll
+c:\users\innsa\documents\visual studio 2012\Projects\CalculadorBisiesto\CalculadorBisiesto\obj\Debug\CalculadorBisiesto.pdb
